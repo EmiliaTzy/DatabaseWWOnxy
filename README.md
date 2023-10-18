@@ -15,6 +15,8 @@ https://t.me/onyxGroups
 ## کانال رسمی تلگرام
 https://t.me/OnyxWereWolf
 
+## Workflows Deployment
+<p align="center"><a href="https://github.com/new/import"><img src="https://img.shields.io/badge/Workflow%20Deploy-black?style=for-the-badge&logo=github" width="200""/></a>
 
 ## مستندات
 
